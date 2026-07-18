@@ -1,0 +1,11 @@
+show_id,type,title,director,country,release_year,rating
+s1,Movie,The Great Escape,John Smith,India,2022,PG-13
+s2,TV Show,Science World,Alice Brown,USA,2021,TV-14
+s3,Movie,Action Hero,Raj Kumar,India,2020,U/A 13+
+s4,Movie,Love Story,David Lee,UK,2019,PG
+s5,TV Show,Space Mission,Emma White,Canada,2023,TV-MA
+s6,Movie,Comedy Night,Amit Sharma,India,2021,U
+s7,TV Show,Wild Nature,Sarah Green,Australia,2022,TV-PG
+s8,Movie,Horror House,James Clark,USA,2018,R
+s9,Movie,Future Tech,Rohan Patel,India,2023,PG-13
+s10,TV Show,Cooking Master,Sophia King,France,2020,G
